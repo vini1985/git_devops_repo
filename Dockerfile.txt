@@ -1,5 +1,5 @@
 FROM hshar/webapp
-ADD ./demo /var/www/html/devopsIQ
+ADD ./demo /var/www/html/demo
 EXPOSE 80
 EXPOSE 81
 EXPOSE 82
